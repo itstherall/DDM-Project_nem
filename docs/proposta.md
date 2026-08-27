@@ -9,7 +9,8 @@
 
 ---
 
-## 1-visão-geral-do-projeto
+## 1. Visão Geral do Projeto
+
 
 ### 1.1 Sobre
 
@@ -21,5 +22,40 @@ O objetivo do aplicativo é simplificar a divisão e o controle de gastos em via
 
 Diferentemente de aplicativos focados apenas na organização de viagens, o [Nome do Aplicativo others] tem como principal objetivo facilitar o controle, a divisão e a cobrança das despesas entre os participantes.
 
-## 2-definição-do-mvp
+### 1.2 Problema e Solução
+
+| Item | Descrição |
+|------|-----------|
+| **Problema** | preencher |
+| **Impacto** | preencher |
+| **Solução** | preencher |
+
+### 1.3 Funcionalidades Principais
+
+- preencher
+- preencher
+- preencher
+- preencher
+- preencher
+- preencher
+
+### 1.4 Partes Interessadas
+
+| Ator | Descrição |
+|------|-----------|
+| preencher | preencher |
+| preencher | preencher |
+| Equipe de Desenvolvimento | Responsável por desenvolver e entregar o sistema |
+
+### 1.5 Tecnologias
+
+| Camada | Tecnologia |
+|--------|-----------|
+| preencher | Kotlin |
+| preencher| Android|
+| Build | Maven |
+| Frontend | Kotlin |
+
+
+## 2. Definição do MVP
 
